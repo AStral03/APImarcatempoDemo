@@ -1,0 +1,5 @@
+C:\Users\brt\source\repos\APImarcatempoDemo\APImarcatempoDemo\obj\Debug\net8.0\APImarcatempoDemo.csproj.AssemblyReference.cache
+C:\Users\brt\source\repos\APImarcatempoDemo\APImarcatempoDemo\obj\Debug\net8.0\APImarcatempoDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brt\source\repos\APImarcatempoDemo\APImarcatempoDemo\obj\Debug\net8.0\APImarcatempoDemo.AssemblyInfoInputs.cache
+C:\Users\brt\source\repos\APImarcatempoDemo\APImarcatempoDemo\obj\Debug\net8.0\APImarcatempoDemo.AssemblyInfo.cs
+C:\Users\brt\source\repos\APImarcatempoDemo\APImarcatempoDemo\obj\Debug\net8.0\APImarcatempoDemo.csproj.CoreCompileInputs.cache
