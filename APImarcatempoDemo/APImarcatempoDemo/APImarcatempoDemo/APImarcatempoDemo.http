@@ -1,6 +1,0 @@
-@APImarcatempoDemo_HostAddress = http://localhost:5097
-
-GET {{APImarcatempoDemo_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
